@@ -1,0 +1,62 @@
+[
+    {
+        "immagine": "fibra.jpg",
+        "categoria": "Connettività",
+        "data": "07\/02\/2026",
+        "titolo": "Il futuro della fibra in Val di Non",
+        "estratto": "Scopri come la connettività ultra-veloce sta cambiando le imprese locali.",
+        "completo": "La fibra ottica FTTH sta finalmente raggiungendo anche le zone più isolate della Val di Non. Questo permetterà alle aziende locali di competere a livello globale, riducendo drasticamente i tempi di caricamento e migliorando la stabilità delle videochiamate e dei servizi cloud. AGTech è in prima linea per supportare l'attivazione di queste nuove linee per privati e aziende.",
+        "alt": "Cavi in fibra ottica e connessione veloce",
+        "stato": 0
+    },
+    {
+        "immagine": "pc-slow.jpg",
+        "categoria": "Assistenza",
+        "data": "05\/02\/2026",
+        "titolo": "Manutenzione PC: 5 consigli d'oro",
+        "estratto": "Ecco come mantenere il tuo computer veloce e scattante nel tempo senza stress.",
+        "completo": "Un computer lento può dipendere da molti fattori. AGTech consiglia: 1. Disinstallare i programmi inutilizzati. 2. Pulire periodicamente i file temporanei. 3. Verificare i programmi che si avviano automaticamente all'accensione. 4. Controllare lo stato di salute del disco rigido (SSD). 5. Mantenere il sistema operativo sempre aggiornato. Se il problema persiste, un upgrade hardware o una formattazione professionale potrebbero essere la soluzione definitiva.",
+        "alt": "Pulizia e manutenzione hardware computer",
+        "stato": 0
+    },
+    {
+        "immagine": "backup.jpg",
+        "categoria": "Sicurezza",
+        "data": "01\/02\/2026",
+        "titolo": "Perché scegliere un backup cloud",
+        "estratto": "Non rischiare di perdere i tuoi ricordi o i documenti di lavoro. La sicurezza non è mai troppa.",
+        "completo": "I dati sono il bene più prezioso nell'era digitale. Fare affidamento solo su una chiavetta USB o un hard disk esterno è rischioso perché sono soggetti a rotture fisiche. Le soluzioni di backup cloud offrono crittografia avanzata e ridondanza dei dati, garantendo che i tuoi documenti siano sempre recuperabili in caso di guasto hardware, furto o attacchi informatici.",
+        "alt": "Rappresentazione digitale del cloud storage",
+        "stato": 0
+    },
+    {
+        "immagine": "smart-working.jpg",
+        "categoria": "Business",
+        "data": "28\/01\/2026",
+        "titolo": "Smart Working efficiente in Trentino",
+        "estratto": "Come configurare un ufficio a casa che sia davvero veloce, sicuro e professionale.",
+        "completo": "Lavorare da casa richiede le giuste infrastrutture per evitare frustrazioni durante le chiamate Zoom. Oltre a una buona connessione, è fondamentale avere una rete Wi-Fi stabile. AGTech aiuta i professionisti a configurare VPN per l'accesso sicuro ai dati aziendali e a ottimizzare la copertura del segnale in ogni stanza della casa utilizzando sistemi Mesh di ultima generazione che eliminano le zone morte.",
+        "alt": "Postazione ufficio moderna con vista montagne",
+        "stato": 0
+    },
+    {
+        "immagine": "sicurezza.jpg",
+        "categoria": "Sicurezza",
+        "data": "20\/01\/2026",
+        "titolo": "Sicurezza: i pericoli del Phishing",
+        "estratto": "Impara a riconoscere le email sospette e proteggi i tuoi account bancari e social.",
+        "completo": "Il phishing rimane una delle minacce più subdole. Le email che sembrano provenire dalla banca o da corrieri espresso spesso nascondono tentativi di furto d'identità. Controlla sempre l'indirizzo reale del mittente e non cliccare mai su link che richiedono l'inserimento di password. AGTech offre consulenza per l'installazione di firewall e sistemi antivirus centralizzati per una protezione domestica o aziendale a 360 gradi.",
+        "alt": "Lucchetto digitale rosso su codice binario",
+        "stato": 0
+    },
+    {
+        "immagine": "assistenza.jpg",
+        "categoria": "Assistenza",
+        "data": "15\/01\/2026",
+        "titolo": "L'importanza dell'assistenza remota",
+        "estratto": "Risolvere i problemi del computer in pochi minuti senza muoversi dall'ufficio.",
+        "completo": "Molti problemi software possono essere risolti rapidamente tramite l'assistenza remota. Questo servizio permette ad AGTech di intervenire sul tuo PC in tempo reale, ovunque tu sia (Cles, Trento o fuori provincia), riducendo i tempi di fermo macchina e i costi di uscita. Basta una connessione internet attiva per ricevere supporto immediato su configurazioni mail, problemi software e ottimizzazione del sistema operativo.",
+        "alt": "Schermo computer con sessione di assistenza remota",
+        "stato": 0
+    }
+]
