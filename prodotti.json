@@ -1,11 +1,21 @@
 [
-  {
-    "id": "A01",
-    "nome": "Smartphone AG-Tech X1",
-    "categoria": "Elettronica",
-    "prezzo": "299.00",
-    "immagine": "prodotto1.jpg",
-    "descrizione": "Display OLED 6.7 pollici, 128GB.",
-    "stato": 0
-  }
-]  
+    {
+        "id": 1770690895000,
+        "nome": "vdvcv",
+        "categoria": "vcvc",
+        "prezzo": "300.00",
+        "immagine": "backup.jpg",
+        "estratto": "vcvcvc",
+        "completo": "vcvcvc",
+        "stato": 0
+    },
+    {
+        "id": "A01",
+        "nome": "Smartphone AG-Tech X1",
+        "categoria": "Elettronica",
+        "prezzo": "299.00",
+        "immagine": "prodotto1.jpg",
+        "descrizione": "Display OLED 6.7 pollici, 128GB.",
+        "stato": 0
+    }
+]
