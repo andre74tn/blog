@@ -40,6 +40,46 @@
         "stato": 0
     },
     {
+        "id": 1770758678000,
+        "nome": "Cartuccia d'inchiostro HP 953XL | GIALLO",
+        "categoria": "Consumabili",
+        "prezzo": "54.00",
+        "immagine": "prod_1770758678.jpg",
+        "estratto": "Originale",
+        "completo": "~1450 pagine",
+        "stato": 0
+    },
+    {
+        "id": 1770758629000,
+        "nome": "Cartuccia d'inchiostro HP 953XL | MAGENTA",
+        "categoria": "Consumabili",
+        "prezzo": "54.00",
+        "immagine": "prod_1770758629.jpg",
+        "estratto": "Originale",
+        "completo": "~1450 pagine",
+        "stato": 0
+    },
+    {
+        "id": 1770758559000,
+        "nome": "Cartuccia d'inchiostro HP 953XL | CIANO",
+        "categoria": "Consumabili",
+        "prezzo": "54.00",
+        "immagine": "prod_1770758559.jpg",
+        "estratto": "Originale",
+        "completo": "~1450 pagine",
+        "stato": 0
+    },
+    {
+        "id": 1770757994000,
+        "nome": "Cartuccia d'inchiostro HP 953XL | NERO",
+        "categoria": "Consumabili",
+        "prezzo": "75.00",
+        "immagine": "prod_1770757994.jpg",
+        "estratto": "Originale",
+        "completo": "~2000 pagine",
+        "stato": 0
+    },
+    {
         "id": 1770690895000,
         "nome": "Notebook HP EliteBook 840 G7",
         "categoria": "Notebook",
