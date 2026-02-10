@@ -1,5 +1,15 @@
 [
     {
+        "id": 1770758678000,
+        "nome": "Cartuccia d'inchiostro HP 953XL | GIALLO",
+        "categoria": "Consumabili",
+        "prezzo": "54.00",
+        "immagine": "prod_1770758678.jpg",
+        "estratto": "Originale",
+        "completo": "~1450 pagine",
+        "stato": 0
+    },
+    {
         "id": 1770758629000,
         "nome": "Cartuccia d'inchiostro HP 953XL | MAGENTA",
         "categoria": "Consumabili",
