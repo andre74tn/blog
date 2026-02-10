@@ -11,11 +11,11 @@
     },
     {
         "id": "A01",
-        "nome": "Personal Computer | Usato di fascia Business",
+        "nome": "Personal Computer HP EliteDesk 800 G5 Tower",
         "categoria": "PC",
-        "prezzo": "299.00",
+        "prezzo": "590.00",
         "immagine": "prod_1770752802.jpg",
-        "estratto": "HP EliteDesk 800 G5 Tower",
+        "estratto": "Usato di fascia Business",
         "completo": "Intel Core i7-9700 | 16Gb Ram | 256Gb SSD | Windows 11 Pro",
         "stato": 0
     }
