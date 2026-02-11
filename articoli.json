@@ -1,5 +1,15 @@
 [
     {
+        "immagine": "1770837420_MemorieRAMeSSDPerchiprezzisonoimpazziti.jpg",
+        "categoria": "Hardware & Componenti",
+        "data": "11\/02\/2026",
+        "titolo": "Memorie RAM e SSD: Perché i prezzi sono impazziti?",
+        "estratto": "Se hai provato ad acquistare un banco di RAM o un disco SSD negli ultimi mesi, avrai notato una brutta sorpresa: i prezzi sono schizzati alle stelle, con aumenti che in alcuni casi superano il 100% rispetto a inizio 2025.",
+        "completo": "La colpa è (ancora) dell'Intelligenza Artificiale\r\nIl motivo principale è la \"fame\" insaziabile di memoria dei grandi data center. Le aziende che sviluppano l'IA (come OpenAI o Google) stanno comprando ogni chip disponibile sul mercato per alimentare i propri server.\r\n\r\nI produttori (Samsung, Micron e SK Hynix) hanno quindi deciso di dare la priorità a loro, lasciando \"le briciole\" al mercato dei normali PC e laptop.\r\n\r\nIn breve: cosa sta succedendo?\r\nMeno scorte per noi: Le linee di produzione sono concentrate sui chip per server (HBM e DDR5 enterprise), riducendo la disponibilità per i consumatori privati.\r\n\r\nEffetto SSD: Anche per gli hard disk a stato solido la situazione è simile: la produzione di memorie NAND è limitata e i costi dei componenti base sono triplicati.\r\n\r\nAddio offerte: Le svendite a cui eravamo abituati sono un ricordo. Oggi un kit da 32GB di RAM può arrivare a costare quanto un intero processore di fascia media.\r\n\r\nCosa fare?\r\nSe non è urgente, il consiglio degli esperti per questo 2026 è di aspettare. Si prevede una stabilizzazione dei prezzi solo verso la fine dell'anno o l'inizio del 2027. Se invece devi acquistare ora, occhio all'usato garantito: potrebbe essere la tua unica ancora di salvezza.",
+        "alt": "Aumento prezzi di memorie RAM e SSD",
+        "stato": 0
+    },
+    {
         "immagine": "fibra.jpg",
         "categoria": "Connettività",
         "data": "07\/02\/2026",
