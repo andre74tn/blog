@@ -1,5 +1,15 @@
 [
     {
+        "id": 1770836365000,
+        "nome": "Mini PC Lenovo Thinkcentre M700 SFF",
+        "categoria": "Personal Computer",
+        "prezzo": "290.00",
+        "immagine": "thinkcentre_m700_sff.jpg",
+        "estratto": "Mini PC usato di fascia Business",
+        "completo": "Intel Core i5 \/ 8Gb \/ 256Gb SSD | Windows 11 Pro",
+        "stato": 0
+    },
+    {
         "id": 1770835946000,
         "nome": "Personal Computer Lenovo Thinkcentre M720q",
         "categoria": "Personal Computer",
