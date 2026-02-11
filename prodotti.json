@@ -1,5 +1,15 @@
 [
     {
+        "id": 1770835946000,
+        "nome": "Personal Computer Lenovo Thinkcentre M720q",
+        "categoria": "Personal Computer",
+        "prezzo": "479.00",
+        "immagine": "placeholder.jpg",
+        "estratto": "i5 | PC usato di fascia Business",
+        "completo": "Intel core i5-8400 | 16Gb | 256GB SSD | Windows 11 Pro",
+        "stato": 0
+    },
+    {
         "id": 1770835269000,
         "nome": "Notebook HP Probook 650 G5",
         "categoria": "Notebook",
