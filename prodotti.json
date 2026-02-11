@@ -1,5 +1,15 @@
 [
     {
+        "id": 1770830574000,
+        "nome": "Monitor 23.8\" | HP EliteDisplay E243m",
+        "categoria": "Monitor",
+        "prezzo": "189.00",
+        "immagine": "prod_1770830574.jpg",
+        "estratto": "Usato di fascia Business",
+        "completo": "Risoluzione nativa: FHD (1920 x 1080 a 60 Hz)\r\nWebcam HD a comparsa integrata a 720 p con casse e doppi microfoni digitali\r\n",
+        "stato": 0
+    },
+    {
         "id": 1770829327000,
         "nome": "Consumabili delle migliori marche",
         "categoria": "Consumabili",
