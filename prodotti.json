@@ -1,5 +1,15 @@
 [
     {
+        "id": 1770829327000,
+        "nome": "Consumabili delle migliori marche",
+        "categoria": "Consumabili",
+        "prezzo": "0.00",
+        "immagine": "prod_1770829327.jpg",
+        "estratto": "Sconti su quantità",
+        "completo": "Chiedi una quotazione",
+        "stato": 0
+    },
+    {
         "id": 1770813890000,
         "nome": "Kaspersky Plus Security 2026 | 5 dispositivi | 1 anno",
         "categoria": "Software",
