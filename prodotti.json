@@ -1,5 +1,15 @@
 [
     {
+        "id": 1770807555000,
+        "nome": "Kaspersky Plus Security 2026 | 3 dispositivi | 1 anno",
+        "categoria": "Consumabili",
+        "prezzo": "70.00",
+        "immagine": "prod_1770807555.jpg",
+        "estratto": "Licenza elettronica con assistenza per l'installazione",
+        "completo": "Funzionalità di sicurezza avanzate con anti-phishing e firewall inclusi.",
+        "stato": 0
+    },
+    {
         "id": 1770807481000,
         "nome": "Kaspersky Plus Security 2026 | 1 dispositivo | 1 anno",
         "categoria": "Software",
