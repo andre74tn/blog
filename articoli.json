@@ -37,7 +37,7 @@
         "estratto": "Non rischiare di perdere i tuoi ricordi o i documenti di lavoro. La sicurezza non è mai troppa.",
         "completo": "I dati sono il bene più prezioso nell'era digitale. Fare affidamento solo su una chiavetta USB o un hard disk esterno è rischioso perché sono soggetti a rotture fisiche. Le soluzioni di backup cloud offrono crittografia avanzata e ridondanza dei dati, garantendo che i tuoi documenti siano sempre recuperabili in caso di guasto hardware, furto o attacchi informatici.",
         "alt": "Rappresentazione digitale del cloud storage",
-        "stato": 0
+        "stato": 1
     },
     {
         "immagine": "smart-working.jpg",
