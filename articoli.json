@@ -1,15 +1,5 @@
 [
     {
-        "immagine": "1772182618_Hhgt.png",
-        "categoria": "Hhhh",
-        "data": "27\/02\/2026",
-        "titolo": "Hhgt",
-        "estratto": "Jejeje",
-        "completo": "Jsjeje",
-        "alt": "Hhgt",
-        "stato": 1
-    },
-    {
         "immagine": "1772115727_FinalmentelaF.jpg",
         "categoria": "Connettività",
         "data": "26\/02\/2026",
@@ -37,26 +27,6 @@
         "estratto": "Scopri come la connettività ultra-veloce sta cambiando le imprese locali.",
         "completo": "La fibra ottica FTTH sta finalmente raggiungendo anche le zone più isolate della Val di Non e della Val di Sole. Questo permetterà alle aziende locali di competere a livello globale, riducendo drasticamente i tempi di caricamento e migliorando la stabilità della navigazione, delle videochiamate e dei servizi cloud. AGTech è in prima linea per supportare l'attivazione di queste nuove linee per aziende e privati.",
         "alt": "Il futuro della fibra in Val di Non e Val di Sole",
-        "stato": 1
-    },
-    {
-        "immagine": "backup.jpg",
-        "categoria": "Sicurezza",
-        "data": "01\/02\/2026",
-        "titolo": "Perché scegliere un backup cloud",
-        "estratto": "Non rischiare di perdere i tuoi ricordi o i documenti di lavoro. La sicurezza non è mai troppa.",
-        "completo": "I dati sono il bene più prezioso nell'era digitale. Fare affidamento solo su una chiavetta USB o un hard disk esterno è rischioso perché sono soggetti a rotture fisiche. Le soluzioni di backup cloud offrono crittografia avanzata e ridondanza dei dati, garantendo che i tuoi documenti siano sempre recuperabili in caso di guasto hardware, furto o attacchi informatici.",
-        "alt": "Rappresentazione digitale del cloud storage",
-        "stato": 1
-    },
-    {
-        "immagine": "smart-working.jpg",
-        "categoria": "Business",
-        "data": "28\/01\/2026",
-        "titolo": "Smart Working efficiente in Trentino",
-        "estratto": "Come configurare un ufficio a casa che sia davvero veloce, sicuro e professionale.",
-        "completo": "Lavorare da casa richiede le giuste infrastrutture per evitare frustrazioni durante le chiamate Zoom. Oltre a una buona connessione, è fondamentale avere una rete Wi-Fi stabile. AGTech aiuta i professionisti a configurare VPN per l'accesso sicuro ai dati aziendali e a ottimizzare la copertura del segnale in ogni stanza della casa utilizzando sistemi Mesh di ultima generazione che eliminano le zone morte.",
-        "alt": "Smart Working efficiente in Trentino",
         "stato": 1
     },
     {
